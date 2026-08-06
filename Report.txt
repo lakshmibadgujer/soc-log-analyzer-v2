@@ -1,0 +1,13 @@
+====/SUMMARY/====
+DATE :05-08-2026
+TIME :12:06:30
+
+total logs:15
+info logs:3
+error logs:2
+warning logs:2
+
+*****PERCENTAGE*****
+info:20.00%
+error:13.33%
+warning:13.33%
