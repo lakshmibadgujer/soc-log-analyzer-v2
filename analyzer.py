@@ -1,6 +1,7 @@
 from datetime import datetime
 
-log_file = "cybersicurity.logs"
+# log_file = "cybersicurity.logs"
+log_file = input("enter file name :")
 
 current_time = datetime.now()
 
